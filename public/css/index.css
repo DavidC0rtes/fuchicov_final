@@ -22,7 +22,7 @@
     float: left;
     background: #FF416C;
       background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
-    background: linear-gradient(to right, #FF4B2B, #FF416C);
+    background: linear-gradient(to right, #2b9dff, #080c88);
     color: white;
     position: absolute;
     text-align: center;
@@ -42,7 +42,7 @@
 }
 
 .div-form-login input[type=submit]{
-  background-color: #f44336;
+  background-color: #080c88;
   border-radius: 20px;
   border: none;
   color: white;

@@ -61,9 +61,7 @@
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.7.4"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "jest": {
     "moduleFileExtensions": [
       "js",
